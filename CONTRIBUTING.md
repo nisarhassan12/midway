@@ -38,6 +38,12 @@ All demos should be compiled at [midwayjs/examples](https://github.com/midwayjs/
 
 ## Submitting Code
 
+### Online one-click setup
+
+You can use Gitpod(a free online VS Code-like IDE) for making PRs that will automatically: clone the repo, install the dependencies and start the webserver.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ### Pull Request Guide
 
 If you are a developer of midway repo and you are willing to contribute, feel free to create a new branch, finish your modification and submit a PR. MidwayJs group will review your work and merge it to master branch.
